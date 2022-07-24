@@ -31,6 +31,10 @@ Bienvenido al repositorio principal del curso de **creación de colecciones de N
   - Pregunta and chat acerca del curso!
 
 ### Pre-requisitos
+* Online
+- [Gitpod](https://www.gitpod.io/)
+  
+* Offline
 - [Git](https://git-scm.com)
 - [nodejs](https://nodejs.org/es/)
 - [Github](https://github.com)
@@ -69,8 +73,23 @@ Se escogieron herramientas muy útiles y básicas en su manejo para que la parte
 El curso se va dividir en diferentes partes, cada una con una duración entre 15 a 30 minutos donde se de explicación del propósito de la lesión y ¿cómo vamos a resolver el problema?
 
 # Lesson 1: [Generative Art]
-💻 Recurso principal: https://github.com/HashLips/hashlips_art_engine
+💻 Recurso principal: https://github.com/jamescardona11/hashlips_generative_solana_course
+
+
+💻 Recurso original: https://github.com/HashLips/hashlips_art_engine
+🎥 Más video info: https://www.youtube.com/watch?v=vFY_E3IP6OU&list=PLvfQp12V0hS1PWDxlrfASk0Mq6AbC5n5f&index=1
+
+📖 Como se escoge el las capas: https://prosepoetrycode.potterpcs.net/2015/05/weighted-random-choices-js/
+🎨 Blend mode: https://developer.mozilla.org/es/docs/Web/CSS/mix-blend-mode
+
 
 ### Preparando tus assets [Metaplex Docs](https://docs.metaplex.com/tools/sugar/preparing-assets)
 
 En esta parte del curso vamos a entender como generar nuestro arte en solana y que requisitos deben cumplir nuestros assets para poder ser assets elegibles como un NFT para Solana.
+Lo que vamos a aprender es:
+- Explicar como funciona la rareza en el art-generative
+- ¿Qué es Blend mode?
+- ¿Cómo crear diferentes paths de images?
+- ¿Cómo hacer un update de la información?
+- Crear un preview collage y Gif
+- Herramienta interactiva [NO CODE](https://github.com/HashLips/hashlips_art_engine_app)
